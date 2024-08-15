@@ -2,12 +2,10 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/americanoame/React-Slider-Advertise-Card/assets/77306236/afedef7b-47a9-4ab3-8ceb-adbb17ad6be9"><td>
+    <td><img src="https://github.com/user-attachments/assets/548b78eb-17b8-4c92-bad4-862e78045692"><td>
   </tr>
 </table>
 
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
 
 - This project showcases a responsive slider card implemented using React, HTML, and CSS. The main objective of this project was to utilize the React hook useState to manage the state of the slider.
 
