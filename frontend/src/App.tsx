@@ -1,8 +1,13 @@
 
-const App = () => {
-  return (
-    <div>App</div>
-  )
-}
+import Slider from "./components/Slider";
+import "./index.css";
 
-export default App
+const App: React.FC = () => {
+  return (
+    <div className="container">
+      <Slider />
+    </div>
+  );
+};
+
+export default App;
